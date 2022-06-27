@@ -11,7 +11,7 @@ In this project, I accessed a dataset of Sports products and used PySpark to per
 ![Vine](paid_df.png)
 
 ### Non-Vine DataFrame
-![Non-Vine](unpaid_df.png)
+![Non-Vine](nonpaid_df.png)
 
 ## Vine vs Non-Vine Reviews
 
